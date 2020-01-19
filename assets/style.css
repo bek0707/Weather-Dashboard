@@ -1,0 +1,8 @@
+.card-body {
+    width: 150px;
+    height: 200px;
+}
+
+#city-name-container {
+    padding: 50px;
+}
